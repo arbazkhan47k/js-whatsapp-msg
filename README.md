@@ -4,9 +4,7 @@ This is a simple web project that allows users to send a **pre-filled WhatsApp m
 
 ---
 
-## 🚀 Live Demo
-
-Live Demo: https://arbazkhan47k.github.io/js-whatsapp-msg  
+  
 GitHub Repository: https://github.com/arbazkhan47k/js-whatsapp-msg
 
 ---
